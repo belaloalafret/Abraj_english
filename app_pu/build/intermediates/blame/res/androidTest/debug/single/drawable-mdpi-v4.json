@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\Apps\\Abraj\\app_pu\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_action_paste_inv.png",
+        "source": "D:\\Apps\\Abraj\\app_pu\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_action_paste_inv.png"
+    },
+    {
+        "merged": "E:\\Abraj\\app_pu\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_action_paste.png",
+        "source": "E:\\Abraj\\app_pu\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_action_paste.png"
+    },
+    {
+        "merged": "E:\\APPS\\Abraj_english\\app_pu\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_action_paste.png",
+        "source": "E:\\APPS\\Abraj_english\\app_pu\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_action_paste.png"
+    },
+    {
+        "merged": "D:\\Apps\\Abraj\\app_pu\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\scrollbar_handle_accelerated_anim2.9.png",
+        "source": "D:\\Apps\\Abraj\\app_pu\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\scrollbar_handle_accelerated_anim2.9.png"
+    },
+    {
+        "merged": "D:\\Apps\\Abraj\\app_pu\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_action_paste.png",
+        "source": "D:\\Apps\\Abraj\\app_pu\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_action_paste.png"
+    },
+    {
+        "merged": "E:\\Abraj\\app_pu\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\icon.png",
+        "source": "E:\\Abraj\\app_pu\\src\\androidTest\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\Abraj\\app_pu\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_action_paste_inv.png",
+        "source": "E:\\Abraj\\app_pu\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_action_paste_inv.png"
+    },
+    {
+        "merged": "D:\\Apps\\Abraj\\app_pu\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\icon.png",
+        "source": "D:\\Apps\\Abraj\\app_pu\\src\\androidTest\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\APPS\\Abraj_english\\app_pu\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_action_paste_inv.png",
+        "source": "E:\\APPS\\Abraj_english\\app_pu\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_action_paste_inv.png"
+    },
+    {
+        "merged": "E:\\APPS\\Abraj_english\\app_pu\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\icon.png",
+        "source": "E:\\APPS\\Abraj_english\\app_pu\\src\\androidTest\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\APPS\\Abraj_english\\app_pu\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\scrollbar_handle_accelerated_anim2.9.png",
+        "source": "E:\\APPS\\Abraj_english\\app_pu\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\scrollbar_handle_accelerated_anim2.9.png"
+    },
+    {
+        "merged": "E:\\Abraj\\app_pu\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\scrollbar_handle_accelerated_anim2.9.png",
+        "source": "E:\\Abraj\\app_pu\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\scrollbar_handle_accelerated_anim2.9.png"
+    }
+]

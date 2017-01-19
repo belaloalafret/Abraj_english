@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\APPS\\Abraj_english\\app_pu\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\playactivity_context_menu.xml",
+        "source": "E:\\APPS\\Abraj_english\\app_pu\\build\\intermediates\\bundles\\debug\\res\\menu\\playactivity_context_menu.xml"
+    },
+    {
+        "merged": "E:\\Abraj\\app_pu\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\playactivity_context_menu.xml",
+        "source": "E:\\Abraj\\app_pu\\build\\intermediates\\bundles\\debug\\res\\menu\\playactivity_context_menu.xml"
+    },
+    {
+        "merged": "D:\\Apps\\Abraj\\app_pu\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\playactivity_context_menu.xml",
+        "source": "D:\\Apps\\Abraj\\app_pu\\build\\intermediates\\bundles\\debug\\res\\menu\\playactivity_context_menu.xml"
+    }
+]

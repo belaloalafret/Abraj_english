@@ -1,0 +1,222 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+ * Project
+   wordswithcrosses-test:C:\Users\DELL\Desktop\words\wordswithcrosses-master\tes
+   \.classpath:
+   Could not resolve source path src in project wordswithcrosses-test: ignored.
+   The project may not compile if the given source path provided source code.
+
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => wordswithcrossestest9\src\main\AndroidManifest.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\ => wordswithcrossestest9\src\main\java\
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\.gitignore => wordswithcrossestest9\src\main\resources\.gitignore
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\.gradle\2.8\taskArtifacts\cache.properties => wordswithcrossestest9\src\main\resources\.gradle\2.8\taskArtifacts\cache.properties
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\.gradle\2.8\taskArtifacts\cache.properties.lock => wordswithcrossestest9\src\main\resources\.gradle\2.8\taskArtifacts\cache.properties.lock
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\.gradle\2.8\taskArtifacts\fileHashes.bin => wordswithcrossestest9\src\main\resources\.gradle\2.8\taskArtifacts\fileHashes.bin
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\.gradle\2.8\taskArtifacts\fileSnapshots.bin => wordswithcrossestest9\src\main\resources\.gradle\2.8\taskArtifacts\fileSnapshots.bin
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\.gradle\2.8\taskArtifacts\outputFileStates.bin => wordswithcrossestest9\src\main\resources\.gradle\2.8\taskArtifacts\outputFileStates.bin
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\.gradle\2.8\taskArtifacts\taskArtifacts.bin => wordswithcrossestest9\src\main\resources\.gradle\2.8\taskArtifacts\taskArtifacts.bin
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\.idea\.name => wordswithcrossestest9\src\main\resources\.idea\.name
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\.idea\compiler.xml => wordswithcrossestest9\src\main\resources\.idea\compiler.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\.idea\copyright\profiles_settings.xml => wordswithcrossestest9\src\main\resources\.idea\copyright\profiles_settings.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\.idea\encodings.xml => wordswithcrossestest9\src\main\resources\.idea\encodings.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\.idea\gradle.xml => wordswithcrossestest9\src\main\resources\.idea\gradle.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\.idea\libraries\hamcrest_core_1_3.xml => wordswithcrossestest9\src\main\resources\.idea\libraries\hamcrest_core_1_3.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\.idea\libraries\junit_4_12.xml => wordswithcrossestest9\src\main\resources\.idea\libraries\junit_4_12.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\.idea\libraries\tagsoup_1_2.xml => wordswithcrossestest9\src\main\resources\.idea\libraries\tagsoup_1_2.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\.idea\misc.xml => wordswithcrossestest9\src\main\resources\.idea\misc.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\.idea\modules.xml => wordswithcrossestest9\src\main\resources\.idea\modules.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\.idea\runConfigurations.xml => wordswithcrossestest9\src\main\resources\.idea\runConfigurations.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\.idea\vcs.xml => wordswithcrossestest9\src\main\resources\.idea\vcs.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\.idea\workspace.xml => wordswithcrossestest9\src\main\resources\.idea\workspace.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\app.iml => wordswithcrossestest9\src\main\resources\app\app.iml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build.gradle => wordswithcrossestest9\src\main\resources\app\build.gradle
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\assets\debug\about-puzzles.html => wordswithcrossestest9\src\main\resources\app\build\intermediates\assets\debug\about-puzzles.html
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\assets\debug\btn_donate_LG.gif => wordswithcrossestest9\src\main\resources\app\build\intermediates\assets\debug\btn_donate_LG.gif
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\assets\debug\filescreen.html => wordswithcrossestest9\src\main\resources\app\build\intermediates\assets\debug\filescreen.html
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\assets\debug\license.html => wordswithcrossestest9\src\main\resources\app\build\intermediates\assets\debug\license.html
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\assets\debug\playscreen.html => wordswithcrossestest9\src\main\resources\app\build\intermediates\assets\debug\playscreen.html
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\assets\debug\puzzle-links.html => wordswithcrossestest9\src\main\resources\app\build\intermediates\assets\debug\puzzle-links.html
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\assets\debug\release.html => wordswithcrossestest9\src\main\resources\app\build\intermediates\assets\debug\release.html
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\assets\debug\sdcard-full.html => wordswithcrossestest9\src\main\resources\app\build\intermediates\assets\debug\sdcard-full.html
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\assets\debug\sdcard.html => wordswithcrossestest9\src\main\resources\app\build\intermediates\assets\debug\sdcard.html
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\assets\debug\welcome.html => wordswithcrossestest9\src\main\resources\app\build\intermediates\assets\debug\welcome.html
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\dex\debug\classes.dex => wordswithcrossestest9\src\main\resources\app\build\intermediates\dex\debug\classes.dex
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\incremental\aidl\androidTest\debug\dependency.store => wordswithcrossestest9\src\main\resources\app\build\intermediates\incremental\aidl\androidTest\debug\dependency.store
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\incremental\aidl\debug\dependency.store => wordswithcrossestest9\src\main\resources\app\build\intermediates\incremental\aidl\debug\dependency.store
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\incremental\mergeAssets\androidTest\debug\merger.xml => wordswithcrossestest9\src\main\resources\app\build\intermediates\incremental\mergeAssets\androidTest\debug\merger.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\incremental\mergeAssets\debug\merger.xml => wordswithcrossestest9\src\main\resources\app\build\intermediates\incremental\mergeAssets\debug\merger.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\incremental\mergeResourcesandroidTest\debug\merger.xml => wordswithcrossestest9\src\main\resources\app\build\intermediates\incremental\mergeResourcesandroidTest\debug\merger.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\incremental\mergeResourcesdebug\merger.xml => wordswithcrossestest9\src\main\resources\app\build\intermediates\incremental\mergeResourcesdebug\merger.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\manifest\androidTest\debug\AndroidManifest.xml => wordswithcrossestest9\src\main\resources\app\build\intermediates\manifest\androidTest\debug\AndroidManifest.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\manifests\full\debug\AndroidManifest.xml => wordswithcrossestest9\src\main\resources\app\build\intermediates\manifests\full\debug\AndroidManifest.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\androidTest\debug\drawable-hdpi\icon.png => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\androidTest\debug\drawable-hdpi\icon.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\androidTest\debug\drawable-ldpi\icon.png => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\androidTest\debug\drawable-ldpi\icon.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\androidTest\debug\drawable-mdpi\icon.png => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\androidTest\debug\drawable-mdpi\icon.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\androidTest\debug\drawable-xhdpi\icon.png => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\androidTest\debug\drawable-xhdpi\icon.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\androidTest\debug\values\values.xml => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\androidTest\debug\values\values.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\drawable-hdpi\ic_action_paste.png => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\drawable-hdpi\ic_action_paste.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\drawable-hdpi\ic_action_paste_inv.png => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\drawable-hdpi\ic_action_paste_inv.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\drawable-hdpi\icon.png => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\drawable-hdpi\icon.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\drawable-hdpi\scrollbar_handle_accelerated_anim2.9.png => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\drawable-hdpi\scrollbar_handle_accelerated_anim2.9.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\drawable-ldpi\icon.png => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\drawable-ldpi\icon.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\drawable-ldpi\scrollbar_handle_accelerated_anim2.9.png => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\drawable-ldpi\scrollbar_handle_accelerated_anim2.9.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\drawable-mdpi\ic_action_paste.png => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\drawable-mdpi\ic_action_paste.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\drawable-mdpi\ic_action_paste_inv.png => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\drawable-mdpi\ic_action_paste_inv.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\drawable-mdpi\icon.png => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\drawable-mdpi\icon.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\drawable-mdpi\scrollbar_handle_accelerated_anim2.9.png => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\drawable-mdpi\scrollbar_handle_accelerated_anim2.9.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\drawable-xhdpi\ic_action_paste.png => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\drawable-xhdpi\ic_action_paste.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\drawable-xhdpi\ic_action_paste_inv.png => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\drawable-xhdpi\ic_action_paste_inv.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\drawable-xhdpi\icon.png => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\drawable-xhdpi\icon.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\drawable-xhdpi\scrollbar_handle_accelerated_anim2.9.png => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\drawable-xhdpi\scrollbar_handle_accelerated_anim2.9.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\drawable-xxhdpi\ic_action_paste.png => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\drawable-xxhdpi\ic_action_paste.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\drawable-xxhdpi\ic_action_paste_inv.png => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\drawable-xxhdpi\ic_action_paste_inv.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\drawable\across.png => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\drawable\across.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\drawable\delete.png => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\drawable\delete.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\drawable\down.png => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\drawable\down.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\drawable\icondown.png => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\drawable\icondown.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\drawable\iconleft.png => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\drawable\iconleft.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\drawable\iconright.png => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\drawable\iconright.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\drawable\iconup.png => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\drawable\iconup.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\drawable\space.png => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\drawable\space.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\layout-large-land\browse.xml => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\layout-large-land\browse.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\layout-large-land\play.xml => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\layout-large-land\play.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\layout-large-land\puzzle_list_item.xml => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\layout-large-land\puzzle_list_item.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\layout-large\clue_detail_item.xml => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\layout-large\clue_detail_item.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\layout-large\download_dialog.xml => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\layout-large\download_dialog.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\layout-large\play.xml => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\layout-large\play.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\layout-v21\download_dialog.xml => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\layout-v21\download_dialog.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\layout-xlarge-land\play.xml => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\layout-xlarge-land\play.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\layout-xlarge\play.xml => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\layout-xlarge\play.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\layout\browse.xml => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\layout\browse.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\layout\clue_detail_item.xml => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\layout\clue_detail_item.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\layout\clue_line_only.xml => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\layout\clue_line_only.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\layout\clue_list.xml => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\layout\clue_list.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\layout\completed.xml => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\layout\completed.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\layout\download_dialog.xml => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\layout\download_dialog.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\layout\html_view.xml => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\layout\html_view.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\layout\play.xml => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\layout\play.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\layout\puzzle_info_dialog.xml => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\layout\puzzle_info_dialog.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\layout\puzzle_list_header.xml => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\layout\puzzle_list_header.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\layout\puzzle_list_item.xml => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\layout\puzzle_list_item.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\layout\source_item.xml => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\layout\source_item.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\layout\source_item_highlight.xml => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\layout\source_item_highlight.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\menu\playactivity_context_menu.xml => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\menu\playactivity_context_menu.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\values-v11\values-v11.xml => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\values-v11\values-v11.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\values\values.xml => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\values\values.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\xml\keyboard.xml => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\xml\keyboard.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\xml\keyboard_dpad.xml => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\xml\keyboard_dpad.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\xml\keyboard_dpad_nums.xml => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\xml\keyboard_dpad_nums.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\merged\debug\xml\preferences.xml => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\merged\debug\xml\preferences.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\resources-debug-androidTest.ap_ => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\resources-debug-androidTest.ap_
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\intermediates\res\resources-debug.ap_ => wordswithcrossestest9\src\main\resources\app\build\intermediates\res\resources-debug.ap_
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\outputs\apk\app-debug-unaligned.apk => wordswithcrossestest9\src\main\resources\app\build\outputs\apk\app-debug-unaligned.apk
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\outputs\apk\app-debug.apk => wordswithcrossestest9\src\main\resources\app\build\outputs\apk\app-debug.apk
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\build\outputs\logs\manifest-merger-debug-report.txt => wordswithcrossestest9\src\main\resources\app\build\outputs\logs\manifest-merger-debug-report.txt
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\androidTest\java\com\adamrosenfield\wordswithcrosses\net\derstandard\.gitignore => wordswithcrossestest9\src\main\resources\app\src\androidTest\java\com\adamrosenfield\wordswithcrosses\net\derstandard\.gitignore
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\androidTest\java\com\adamrosenfield\wordswithcrosses\net\derstandard\fetch-test-data.sh => wordswithcrossestest9\src\main\resources\app\src\androidTest\java\com\adamrosenfield\wordswithcrosses\net\derstandard\fetch-test-data.sh
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\androidTest\res\drawable-hdpi\icon.png => wordswithcrossestest9\src\main\resources\app\src\androidTest\res\drawable-hdpi\icon.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\androidTest\res\drawable-ldpi\icon.png => wordswithcrossestest9\src\main\resources\app\src\androidTest\res\drawable-ldpi\icon.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\androidTest\res\drawable-mdpi\icon.png => wordswithcrossestest9\src\main\resources\app\src\androidTest\res\drawable-mdpi\icon.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\androidTest\res\drawable-xhdpi\icon.png => wordswithcrossestest9\src\main\resources\app\src\androidTest\res\drawable-xhdpi\icon.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\androidTest\res\values\strings.xml => wordswithcrossestest9\src\main\resources\app\src\androidTest\res\values\strings.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\AndroidManifest.xml => wordswithcrossestest9\src\main\resources\app\src\main\AndroidManifest.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\assets\about-puzzles.html => wordswithcrossestest9\src\main\resources\app\src\main\assets\about-puzzles.html
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\assets\btn_donate_LG.gif => wordswithcrossestest9\src\main\resources\app\src\main\assets\btn_donate_LG.gif
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\assets\filescreen.html => wordswithcrossestest9\src\main\resources\app\src\main\assets\filescreen.html
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\assets\license.html => wordswithcrossestest9\src\main\resources\app\src\main\assets\license.html
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\assets\playscreen.html => wordswithcrossestest9\src\main\resources\app\src\main\assets\playscreen.html
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\assets\puzzle-links.html => wordswithcrossestest9\src\main\resources\app\src\main\assets\puzzle-links.html
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\assets\release.html => wordswithcrossestest9\src\main\resources\app\src\main\assets\release.html
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\assets\sdcard-full.html => wordswithcrossestest9\src\main\resources\app\src\main\assets\sdcard-full.html
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\assets\sdcard.html => wordswithcrossestest9\src\main\resources\app\src\main\assets\sdcard.html
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\assets\welcome.html => wordswithcrossestest9\src\main\resources\app\src\main\assets\welcome.html
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\drawable-hdpi\ic_action_paste.png => wordswithcrossestest9\src\main\resources\app\src\main\res\drawable-hdpi\ic_action_paste.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\drawable-hdpi\ic_action_paste_inv.png => wordswithcrossestest9\src\main\resources\app\src\main\res\drawable-hdpi\ic_action_paste_inv.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\drawable-hdpi\icon.png => wordswithcrossestest9\src\main\resources\app\src\main\res\drawable-hdpi\icon.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\drawable-hdpi\scrollbar_handle_accelerated_anim2.9.png => wordswithcrossestest9\src\main\resources\app\src\main\res\drawable-hdpi\scrollbar_handle_accelerated_anim2.9.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\drawable-ldpi\icon.png => wordswithcrossestest9\src\main\resources\app\src\main\res\drawable-ldpi\icon.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\drawable-ldpi\scrollbar_handle_accelerated_anim2.9.png => wordswithcrossestest9\src\main\resources\app\src\main\res\drawable-ldpi\scrollbar_handle_accelerated_anim2.9.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\drawable-mdpi\ic_action_paste.png => wordswithcrossestest9\src\main\resources\app\src\main\res\drawable-mdpi\ic_action_paste.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\drawable-mdpi\ic_action_paste_inv.png => wordswithcrossestest9\src\main\resources\app\src\main\res\drawable-mdpi\ic_action_paste_inv.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\drawable-mdpi\icon.png => wordswithcrossestest9\src\main\resources\app\src\main\res\drawable-mdpi\icon.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\drawable-mdpi\scrollbar_handle_accelerated_anim2.9.png => wordswithcrossestest9\src\main\resources\app\src\main\res\drawable-mdpi\scrollbar_handle_accelerated_anim2.9.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\drawable-xhdpi\ic_action_paste.png => wordswithcrossestest9\src\main\resources\app\src\main\res\drawable-xhdpi\ic_action_paste.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\drawable-xhdpi\ic_action_paste_inv.png => wordswithcrossestest9\src\main\resources\app\src\main\res\drawable-xhdpi\ic_action_paste_inv.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\drawable-xhdpi\icon.png => wordswithcrossestest9\src\main\resources\app\src\main\res\drawable-xhdpi\icon.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\drawable-xhdpi\scrollbar_handle_accelerated_anim2.9.png => wordswithcrossestest9\src\main\resources\app\src\main\res\drawable-xhdpi\scrollbar_handle_accelerated_anim2.9.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\drawable-xxhdpi\ic_action_paste.png => wordswithcrossestest9\src\main\resources\app\src\main\res\drawable-xxhdpi\ic_action_paste.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\drawable-xxhdpi\ic_action_paste_inv.png => wordswithcrossestest9\src\main\resources\app\src\main\res\drawable-xxhdpi\ic_action_paste_inv.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\drawable\across.png => wordswithcrossestest9\src\main\resources\app\src\main\res\drawable\across.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\drawable\delete.png => wordswithcrossestest9\src\main\resources\app\src\main\res\drawable\delete.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\drawable\down.png => wordswithcrossestest9\src\main\resources\app\src\main\res\drawable\down.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\drawable\icondown.png => wordswithcrossestest9\src\main\resources\app\src\main\res\drawable\icondown.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\drawable\iconleft.png => wordswithcrossestest9\src\main\resources\app\src\main\res\drawable\iconleft.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\drawable\iconright.png => wordswithcrossestest9\src\main\resources\app\src\main\res\drawable\iconright.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\drawable\iconup.png => wordswithcrossestest9\src\main\resources\app\src\main\res\drawable\iconup.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\drawable\space.png => wordswithcrossestest9\src\main\resources\app\src\main\res\drawable\space.png
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\layout-large-land\browse.xml => wordswithcrossestest9\src\main\resources\app\src\main\res\layout-large-land\browse.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\layout-large-land\play.xml => wordswithcrossestest9\src\main\resources\app\src\main\res\layout-large-land\play.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\layout-large-land\puzzle_list_item.xml => wordswithcrossestest9\src\main\resources\app\src\main\res\layout-large-land\puzzle_list_item.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\layout-large\clue_detail_item.xml => wordswithcrossestest9\src\main\resources\app\src\main\res\layout-large\clue_detail_item.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\layout-large\download_dialog.xml => wordswithcrossestest9\src\main\resources\app\src\main\res\layout-large\download_dialog.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\layout-large\play.xml => wordswithcrossestest9\src\main\resources\app\src\main\res\layout-large\play.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\layout-v21\download_dialog.xml => wordswithcrossestest9\src\main\resources\app\src\main\res\layout-v21\download_dialog.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\layout-xlarge-land\play.xml => wordswithcrossestest9\src\main\resources\app\src\main\res\layout-xlarge-land\play.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\layout-xlarge\play.xml => wordswithcrossestest9\src\main\resources\app\src\main\res\layout-xlarge\play.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\layout\browse.xml => wordswithcrossestest9\src\main\resources\app\src\main\res\layout\browse.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\layout\clue_detail_item.xml => wordswithcrossestest9\src\main\resources\app\src\main\res\layout\clue_detail_item.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\layout\clue_line_only.xml => wordswithcrossestest9\src\main\resources\app\src\main\res\layout\clue_line_only.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\layout\clue_list.xml => wordswithcrossestest9\src\main\resources\app\src\main\res\layout\clue_list.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\layout\completed.xml => wordswithcrossestest9\src\main\resources\app\src\main\res\layout\completed.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\layout\download_dialog.xml => wordswithcrossestest9\src\main\resources\app\src\main\res\layout\download_dialog.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\layout\html_view.xml => wordswithcrossestest9\src\main\resources\app\src\main\res\layout\html_view.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\layout\play.xml => wordswithcrossestest9\src\main\resources\app\src\main\res\layout\play.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\layout\puzzle_info_dialog.xml => wordswithcrossestest9\src\main\resources\app\src\main\res\layout\puzzle_info_dialog.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\layout\puzzle_list_header.xml => wordswithcrossestest9\src\main\resources\app\src\main\res\layout\puzzle_list_header.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\layout\puzzle_list_item.xml => wordswithcrossestest9\src\main\resources\app\src\main\res\layout\puzzle_list_item.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\layout\source_item.xml => wordswithcrossestest9\src\main\resources\app\src\main\res\layout\source_item.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\layout\source_item_highlight.xml => wordswithcrossestest9\src\main\resources\app\src\main\res\layout\source_item_highlight.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\menu\playactivity_context_menu.xml => wordswithcrossestest9\src\main\resources\app\src\main\res\menu\playactivity_context_menu.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\values-v11\styles.xml => wordswithcrossestest9\src\main\resources\app\src\main\res\values-v11\styles.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\values\array.xml => wordswithcrossestest9\src\main\resources\app\src\main\res\values\array.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\values\attrs.xml => wordswithcrossestest9\src\main\resources\app\src\main\res\values\attrs.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\values\strings.xml => wordswithcrossestest9\src\main\resources\app\src\main\res\values\strings.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\xml\keyboard.xml => wordswithcrossestest9\src\main\resources\app\src\main\res\xml\keyboard.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\xml\keyboard_dpad.xml => wordswithcrossestest9\src\main\resources\app\src\main\res\xml\keyboard_dpad.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\xml\keyboard_dpad_nums.xml => wordswithcrossestest9\src\main\resources\app\src\main\res\xml\keyboard_dpad_nums.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\app\src\main\res\xml\preferences.xml => wordswithcrossestest9\src\main\resources\app\src\main\res\xml\preferences.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\art\icon36.xcf => wordswithcrossestest9\src\main\resources\art\icon36.xcf
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\art\icon48.xcf => wordswithcrossestest9\src\main\resources\art\icon48.xcf
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\art\icon72.xcf => wordswithcrossestest9\src\main\resources\art\icon72.xcf
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\art\icon96.xcf => wordswithcrossestest9\src\main\resources\art\icon96.xcf
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\build.gradle => wordswithcrossestest9\src\main\resources\build.gradle
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\build\intermediates\dex-cache\cache.xml => wordswithcrossestest9\src\main\resources\build\intermediates\dex-cache\cache.xml
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\gradle\wrapper\gradle-wrapper.properties => wordswithcrossestest9\src\main\resources\gradle\wrapper\gradle-wrapper.properties
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\gradlew => wordswithcrossestest9\src\main\resources\gradlew
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\gradlew.bat => wordswithcrossestest9\src\main\resources\gradlew.bat
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\local.properties => wordswithcrossestest9\src\main\resources\local.properties
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\project.properties => wordswithcrossestest9\src\main\resources\project.properties
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\settings.gradle => wordswithcrossestest9\src\main\resources\settings.gradle
+* C:\Users\DELL\Desktop\words\wordswithcrosses-master\wordswithcrosses\wordswithcrosses.iml => wordswithcrossestest9\src\main\resources\wordswithcrosses.iml
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

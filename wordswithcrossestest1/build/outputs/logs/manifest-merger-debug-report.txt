@@ -1,0 +1,45 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Apps\Abraj\wordswithcrossestest1\src\main\AndroidManifest.xml:2:1-22:12
+	xmlns:android
+		ADDED from D:\Apps\Abraj\wordswithcrossestest1\src\main\AndroidManifest.xml:3:5-63
+	package
+		ADDED from D:\Apps\Abraj\wordswithcrossestest1\src\main\AndroidManifest.xml:4:5-72
+		INJECTED from D:\Apps\Abraj\wordswithcrossestest1\src\main\AndroidManifest.xml
+		INJECTED from D:\Apps\Abraj\wordswithcrossestest1\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Apps\Abraj\wordswithcrossestest1\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from D:\Apps\Abraj\wordswithcrossestest1\src\main\AndroidManifest.xml
+		INJECTED from D:\Apps\Abraj\wordswithcrossestest1\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\Apps\Abraj\wordswithcrossestest1\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from D:\Apps\Abraj\wordswithcrossestest1\src\main\AndroidManifest.xml
+		INJECTED from D:\Apps\Abraj\wordswithcrossestest1\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\Apps\Abraj\wordswithcrossestest1\src\main\AndroidManifest.xml:8:5-73
+	android:targetSdkVersion
+		ADDED from D:\Apps\Abraj\wordswithcrossestest1\src\main\AndroidManifest.xml:8:41-70
+		INJECTED from D:\Apps\Abraj\wordswithcrossestest1\src\main\AndroidManifest.xml
+		INJECTED from D:\Apps\Abraj\wordswithcrossestest1\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\Apps\Abraj\wordswithcrossestest1\src\main\AndroidManifest.xml:8:15-40
+		INJECTED from D:\Apps\Abraj\wordswithcrossestest1\src\main\AndroidManifest.xml
+		INJECTED from D:\Apps\Abraj\wordswithcrossestest1\src\main\AndroidManifest.xml
+application
+ADDED from D:\Apps\Abraj\wordswithcrossestest1\src\main\AndroidManifest.xml:10:5-17:19
+	android:label
+		ADDED from D:\Apps\Abraj\wordswithcrossestest1\src\main\AndroidManifest.xml:12:9-41
+	android:allowBackup
+		ADDED from D:\Apps\Abraj\wordswithcrossestest1\src\main\AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from D:\Apps\Abraj\wordswithcrossestest1\src\main\AndroidManifest.xml:11:9-38
+uses-library#android.test.runner
+ADDED from D:\Apps\Abraj\wordswithcrossestest1\src\main\AndroidManifest.xml:15:7-58
+	android:name
+		ADDED from D:\Apps\Abraj\wordswithcrossestest1\src\main\AndroidManifest.xml:15:21-55
+instrumentation#android.test.InstrumentationTestRunner
+ADDED from D:\Apps\Abraj\wordswithcrossestest1\src\main\AndroidManifest.xml:19:5-21:65
+	android:targetPackage
+		ADDED from D:\Apps\Abraj\wordswithcrossestest1\src\main\AndroidManifest.xml:20:9-68
+	android:name
+		ADDED from D:\Apps\Abraj\wordswithcrossestest1\src\main\AndroidManifest.xml:21:9-62

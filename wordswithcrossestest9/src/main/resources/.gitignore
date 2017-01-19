@@ -1,0 +1,9 @@
+/.gradle/
+/.idea/dictionaries/
+/.idea/libraries/
+/.idea/workspace.xml
+/app/build/
+/build/
+/captures/
+/local.properties
+/TAGS

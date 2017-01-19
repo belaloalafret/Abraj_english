@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "E:\\APPS\\Abraj_english\\app_pu\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\preferences.xml",
+        "source": "E:\\APPS\\Abraj_english\\app_pu\\build\\intermediates\\bundles\\debug\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "D:\\Apps\\Abraj\\app_pu\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\keyboard_dpad.xml",
+        "source": "D:\\Apps\\Abraj\\app_pu\\build\\intermediates\\bundles\\debug\\res\\xml\\keyboard_dpad.xml"
+    },
+    {
+        "merged": "E:\\Abraj\\app_pu\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\keyboard_dpad.xml",
+        "source": "E:\\Abraj\\app_pu\\build\\intermediates\\bundles\\debug\\res\\xml\\keyboard_dpad.xml"
+    },
+    {
+        "merged": "E:\\Abraj\\app_pu\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\preferences.xml",
+        "source": "E:\\Abraj\\app_pu\\build\\intermediates\\bundles\\debug\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "E:\\Abraj\\app_pu\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\keyboard.xml",
+        "source": "E:\\Abraj\\app_pu\\build\\intermediates\\bundles\\debug\\res\\xml\\keyboard.xml"
+    },
+    {
+        "merged": "E:\\APPS\\Abraj_english\\app_pu\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\keyboard_dpad_nums.xml",
+        "source": "E:\\APPS\\Abraj_english\\app_pu\\build\\intermediates\\bundles\\debug\\res\\xml\\keyboard_dpad_nums.xml"
+    },
+    {
+        "merged": "D:\\Apps\\Abraj\\app_pu\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\preferences.xml",
+        "source": "D:\\Apps\\Abraj\\app_pu\\build\\intermediates\\bundles\\debug\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "E:\\APPS\\Abraj_english\\app_pu\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\keyboard.xml",
+        "source": "E:\\APPS\\Abraj_english\\app_pu\\build\\intermediates\\bundles\\debug\\res\\xml\\keyboard.xml"
+    },
+    {
+        "merged": "D:\\Apps\\Abraj\\app_pu\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\keyboard.xml",
+        "source": "D:\\Apps\\Abraj\\app_pu\\build\\intermediates\\bundles\\debug\\res\\xml\\keyboard.xml"
+    },
+    {
+        "merged": "E:\\Abraj\\app_pu\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\keyboard_dpad_nums.xml",
+        "source": "E:\\Abraj\\app_pu\\build\\intermediates\\bundles\\debug\\res\\xml\\keyboard_dpad_nums.xml"
+    },
+    {
+        "merged": "E:\\APPS\\Abraj_english\\app_pu\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\keyboard_dpad.xml",
+        "source": "E:\\APPS\\Abraj_english\\app_pu\\build\\intermediates\\bundles\\debug\\res\\xml\\keyboard_dpad.xml"
+    },
+    {
+        "merged": "D:\\Apps\\Abraj\\app_pu\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\keyboard_dpad_nums.xml",
+        "source": "D:\\Apps\\Abraj\\app_pu\\build\\intermediates\\bundles\\debug\\res\\xml\\keyboard_dpad_nums.xml"
+    }
+]

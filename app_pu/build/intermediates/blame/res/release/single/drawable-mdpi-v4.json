@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Apps\\Abraj\\app_pu\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\scrollbar_handle_accelerated_anim2.9.png",
+        "source": "D:\\Apps\\Abraj\\app_pu\\src\\main\\res\\drawable-mdpi\\scrollbar_handle_accelerated_anim2.9.png"
+    },
+    {
+        "merged": "D:\\Apps\\Abraj\\app_pu\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\icon.png",
+        "source": "D:\\Apps\\Abraj\\app_pu\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Apps\\Abraj\\app_pu\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_action_paste_inv.png",
+        "source": "D:\\Apps\\Abraj\\app_pu\\src\\main\\res\\drawable-mdpi\\ic_action_paste_inv.png"
+    },
+    {
+        "merged": "D:\\Apps\\Abraj\\app_pu\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_action_paste.png",
+        "source": "D:\\Apps\\Abraj\\app_pu\\src\\main\\res\\drawable-mdpi\\ic_action_paste.png"
+    }
+]

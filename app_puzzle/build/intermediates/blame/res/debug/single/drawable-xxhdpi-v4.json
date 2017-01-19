@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Apps\\Abraj\\app_puzzle\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_paste_inv.png",
+        "source": "D:\\Apps\\Abraj\\app_puzzle\\src\\main\\res\\drawable-xxhdpi\\ic_action_paste_inv.png"
+    },
+    {
+        "merged": "D:\\Apps\\Abraj\\app_puzzle\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_paste.png",
+        "source": "D:\\Apps\\Abraj\\app_puzzle\\src\\main\\res\\drawable-xxhdpi\\ic_action_paste.png"
+    }
+]

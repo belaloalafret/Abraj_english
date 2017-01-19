@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Apps\\Abraj\\app2\\build\\intermediates\\res\\merged\\release\\layout-large-land-v4\\puzzle_list_item.xml",
+        "source": "D:\\Apps\\Abraj\\app2\\src\\main\\res\\layout-large-land\\puzzle_list_item.xml"
+    },
+    {
+        "merged": "D:\\Apps\\Abraj\\app2\\build\\intermediates\\res\\merged\\release\\layout-large-land-v4\\play.xml",
+        "source": "D:\\Apps\\Abraj\\app2\\src\\main\\res\\layout-large-land\\play.xml"
+    },
+    {
+        "merged": "D:\\Apps\\Abraj\\app2\\build\\intermediates\\res\\merged\\release\\layout-large-land-v4\\browse.xml",
+        "source": "D:\\Apps\\Abraj\\app2\\src\\main\\res\\layout-large-land\\browse.xml"
+    }
+]

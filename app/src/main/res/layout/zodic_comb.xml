@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="@drawable/background3"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:src="@drawable/ox"
+            android:layout_alignParentLeft="true"
+            android:id="@+id/vers1"
+            android:layout_weight="50"
+            android:layout_alignParentTop="true"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:src="@drawable/ox"
+            android:layout_weight="50"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:id="@+id/vers2"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_below="@id/vers1"
+        android:layout_marginTop="10dp"
+        android:padding="10dp"
+        android:id="@+id/scroll1"
+        android:layout_weight="1"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:id="@+id/zodic_comp_text"
+            android:text="bla bla"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_height="match_parent" />
+
+    </ScrollView>
+
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView_comp_zodic"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/scroll1"
+        ads:adSize="BANNER"
+        android:layout_gravity="center"
+        ads:adUnitId="@string/banner_ad_unit_id_years">
+    </com.google.android.gms.ads.AdView>
+
+    <cn.jeesoft.widget.pickerview.CharacterPickerView
+        android:layout_width="match_parent"
+        android:background="#cccccc"
+        android:scrollbarSize="50dp"
+        android:id="@+id/character_picker"
+        android:layout_alignParentBottom="true"
+        android:layout_height="wrap_content">
+
+    </cn.jeesoft.widget.pickerview.CharacterPickerView>
+
+
+
+</LinearLayout>

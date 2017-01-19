@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\Apps\\Abraj\\app2\\build\\intermediates\\res\\merged\\release\\drawable\\space.png",
+        "source": "D:\\Apps\\Abraj\\app2\\src\\main\\res\\drawable\\space.png"
+    },
+    {
+        "merged": "D:\\Apps\\Abraj\\app2\\build\\intermediates\\res\\merged\\release\\drawable\\down.png",
+        "source": "D:\\Apps\\Abraj\\app2\\src\\main\\res\\drawable\\down.png"
+    },
+    {
+        "merged": "D:\\Apps\\Abraj\\app2\\build\\intermediates\\res\\merged\\release\\drawable\\delete.png",
+        "source": "D:\\Apps\\Abraj\\app2\\src\\main\\res\\drawable\\delete.png"
+    },
+    {
+        "merged": "D:\\Apps\\Abraj\\app2\\build\\intermediates\\res\\merged\\release\\drawable\\iconleft.png",
+        "source": "D:\\Apps\\Abraj\\app2\\src\\main\\res\\drawable\\iconleft.png"
+    },
+    {
+        "merged": "D:\\Apps\\Abraj\\app2\\build\\intermediates\\res\\merged\\release\\drawable\\across.png",
+        "source": "D:\\Apps\\Abraj\\app2\\src\\main\\res\\drawable\\across.png"
+    },
+    {
+        "merged": "D:\\Apps\\Abraj\\app2\\build\\intermediates\\res\\merged\\release\\drawable\\iconup.png",
+        "source": "D:\\Apps\\Abraj\\app2\\src\\main\\res\\drawable\\iconup.png"
+    },
+    {
+        "merged": "D:\\Apps\\Abraj\\app2\\build\\intermediates\\res\\merged\\release\\drawable\\icondown.png",
+        "source": "D:\\Apps\\Abraj\\app2\\src\\main\\res\\drawable\\icondown.png"
+    },
+    {
+        "merged": "D:\\Apps\\Abraj\\app2\\build\\intermediates\\res\\merged\\release\\drawable\\iconright.png",
+        "source": "D:\\Apps\\Abraj\\app2\\src\\main\\res\\drawable\\iconright.png"
+    }
+]

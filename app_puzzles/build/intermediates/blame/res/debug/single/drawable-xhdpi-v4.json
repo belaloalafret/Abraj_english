@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Apps\\Abraj\\app_puzzles\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\scrollbar_handle_accelerated_anim2.9.png",
+        "source": "D:\\Apps\\Abraj\\app_puzzles\\src\\main\\res\\drawable-xhdpi\\scrollbar_handle_accelerated_anim2.9.png"
+    },
+    {
+        "merged": "D:\\Apps\\Abraj\\app_puzzles\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_paste_inv.png",
+        "source": "D:\\Apps\\Abraj\\app_puzzles\\src\\main\\res\\drawable-xhdpi\\ic_action_paste_inv.png"
+    },
+    {
+        "merged": "D:\\Apps\\Abraj\\app_puzzles\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_paste.png",
+        "source": "D:\\Apps\\Abraj\\app_puzzles\\src\\main\\res\\drawable-xhdpi\\ic_action_paste.png"
+    },
+    {
+        "merged": "D:\\Apps\\Abraj\\app_puzzles\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon.png",
+        "source": "D:\\Apps\\Abraj\\app_puzzles\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    }
+]

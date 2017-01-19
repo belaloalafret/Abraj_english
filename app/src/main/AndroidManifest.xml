@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.inet.myapplication">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_lun"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/MyMaterialTheme">
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <provider
+            android:name="com.facebook.FacebookContentProvider"
+            android:authorities="com.facebook.app.FacebookContentProvider468282622338883"
+            android:exported="true" />
+
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+
+        <activity android:name="com.inet.Abraj_English.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name="com.inet.Abraj_English.HoroScope_Details" />
+        <activity android:name="com.inet.Abraj_English.NameCompatibility"
+          />
+
+        <activity android:name="com.inet.Abraj_English.Daily_Abraj" />
+        <activity android:name="com.inet.Abraj_English.World_Abraj" />
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            tools:replace="android:theme" />
+
+        <!-- Include the AdActivity configChanges and theme. -->
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:theme="@android:style/Theme.Translucent" />
+        <activity android:name="com.inet.Abraj_English.luck_today" />
+        <activity android:name="com.inet.Abraj_English.ZodicCompatibility" />
+
+        <service
+            android:name="com.inet.Abraj_English.MyService"
+            android:enabled="true"
+            android:exported="true" />
+
+        <receiver
+            android:name="com.inet.Abraj_English.MyReceiver"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="com.inet.Abraj_English.Gaming"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden" />
+        <activity
+            android:name="com.inet.Abraj_English.Choices"
+            android:theme="@style/Base.Theme.AppCompat.Light.Dialog" />
+        <activity
+            android:name="com.inet.Abraj_English.GameResult"
+            android:theme="@style/Base.Theme.AppCompat.Light.Dialog" />
+        <activity android:name="com.inet.Abraj_English.CrossWords" />
+        <activity android:name="com.inet.Abraj_English.Tsali" />
+        <activity android:name="com.inet.Abraj_English.Horoscope_today" />
+        <activity
+            android:name="com.inet.Abraj_English.Daily_horoscope"
+            android:label="@string/title_activity_daily_horoscope"
+            android:theme="@style/MyMaterialTheme" />
+        <activity
+            android:name="com.inet.Abraj_English.Joke_of_the_Day"
+            android:label="@string/title_activity_joke_of_the__day"
+            android:theme="@style/MyMaterialTheme" />
+        <activity android:name="com.inet.Abraj_English.Today_wisdom" />
+        <activity android:name="com.inet.Abraj_English.Which_I_read_and_liked"></activity>
+    </application>
+
+</manifest>

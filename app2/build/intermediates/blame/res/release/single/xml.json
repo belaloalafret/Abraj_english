@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Apps\\Abraj\\app2\\build\\intermediates\\res\\merged\\release\\xml\\preferences.xml",
+        "source": "D:\\Apps\\Abraj\\app2\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "D:\\Apps\\Abraj\\app2\\build\\intermediates\\res\\merged\\release\\xml\\keyboard.xml",
+        "source": "D:\\Apps\\Abraj\\app2\\src\\main\\res\\xml\\keyboard.xml"
+    },
+    {
+        "merged": "D:\\Apps\\Abraj\\app2\\build\\intermediates\\res\\merged\\release\\xml\\keyboard_dpad.xml",
+        "source": "D:\\Apps\\Abraj\\app2\\src\\main\\res\\xml\\keyboard_dpad.xml"
+    },
+    {
+        "merged": "D:\\Apps\\Abraj\\app2\\build\\intermediates\\res\\merged\\release\\xml\\keyboard_dpad_nums.xml",
+        "source": "D:\\Apps\\Abraj\\app2\\src\\main\\res\\xml\\keyboard_dpad_nums.xml"
+    }
+]

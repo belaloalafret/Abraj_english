@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "D:\\Apps\\Abraj\\app_puzzle\\build\\intermediates\\res\\merged\\debug\\layout\\puzzle_list_header.xml",
+        "source": "D:\\Apps\\Abraj\\app_puzzle\\src\\main\\res\\layout\\puzzle_list_header.xml"
+    },
+    {
+        "merged": "D:\\Apps\\Abraj\\app_puzzle\\build\\intermediates\\res\\merged\\debug\\layout\\completed.xml",
+        "source": "D:\\Apps\\Abraj\\app_puzzle\\src\\main\\res\\layout\\completed.xml"
+    },
+    {
+        "merged": "D:\\Apps\\Abraj\\app_puzzle\\build\\intermediates\\res\\merged\\debug\\layout\\clue_list.xml",
+        "source": "D:\\Apps\\Abraj\\app_puzzle\\src\\main\\res\\layout\\clue_list.xml"
+    },
+    {
+        "merged": "D:\\Apps\\Abraj\\app_puzzle\\build\\intermediates\\res\\merged\\debug\\layout\\clue_line_only.xml",
+        "source": "D:\\Apps\\Abraj\\app_puzzle\\src\\main\\res\\layout\\clue_line_only.xml"
+    },
+    {
+        "merged": "D:\\Apps\\Abraj\\app_puzzle\\build\\intermediates\\res\\merged\\debug\\layout\\source_item_highlight.xml",
+        "source": "D:\\Apps\\Abraj\\app_puzzle\\src\\main\\res\\layout\\source_item_highlight.xml"
+    },
+    {
+        "merged": "D:\\Apps\\Abraj\\app_puzzle\\build\\intermediates\\res\\merged\\debug\\layout\\puzzle_list_item.xml",
+        "source": "D:\\Apps\\Abraj\\app_puzzle\\src\\main\\res\\layout\\puzzle_list_item.xml"
+    },
+    {
+        "merged": "D:\\Apps\\Abraj\\app_puzzle\\build\\intermediates\\res\\merged\\debug\\layout\\play.xml",
+        "source": "D:\\Apps\\Abraj\\app_puzzle\\src\\main\\res\\layout\\play.xml"
+    },
+    {
+        "merged": "D:\\Apps\\Abraj\\app_puzzle\\build\\intermediates\\res\\merged\\debug\\layout\\puzzle_info_dialog.xml",
+        "source": "D:\\Apps\\Abraj\\app_puzzle\\src\\main\\res\\layout\\puzzle_info_dialog.xml"
+    },
+    {
+        "merged": "D:\\Apps\\Abraj\\app_puzzle\\build\\intermediates\\res\\merged\\debug\\layout\\source_item.xml",
+        "source": "D:\\Apps\\Abraj\\app_puzzle\\src\\main\\res\\layout\\source_item.xml"
+    },
+    {
+        "merged": "D:\\Apps\\Abraj\\app_puzzle\\build\\intermediates\\res\\merged\\debug\\layout\\clue_detail_item.xml",
+        "source": "D:\\Apps\\Abraj\\app_puzzle\\src\\main\\res\\layout\\clue_detail_item.xml"
+    },
+    {
+        "merged": "D:\\Apps\\Abraj\\app_puzzle\\build\\intermediates\\res\\merged\\debug\\layout\\html_view.xml",
+        "source": "D:\\Apps\\Abraj\\app_puzzle\\src\\main\\res\\layout\\html_view.xml"
+    },
+    {
+        "merged": "D:\\Apps\\Abraj\\app_puzzle\\build\\intermediates\\res\\merged\\debug\\layout\\download_dialog.xml",
+        "source": "D:\\Apps\\Abraj\\app_puzzle\\src\\main\\res\\layout\\download_dialog.xml"
+    },
+    {
+        "merged": "D:\\Apps\\Abraj\\app_puzzle\\build\\intermediates\\res\\merged\\debug\\layout\\browse.xml",
+        "source": "D:\\Apps\\Abraj\\app_puzzle\\src\\main\\res\\layout\\browse.xml"
+    }
+]

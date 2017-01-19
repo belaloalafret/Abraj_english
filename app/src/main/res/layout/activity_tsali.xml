@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:gravity="center"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:background="@drawable/background1"
+    tools:context="com.inet.Abraj.Tsali">
+
+
+    <ImageView
+        android:layout_width="150dp"
+        android:src="@drawable/sudoku"
+        android:id="@+id/sudoku"
+        android:layout_height="150dp" />
+
+
+    <ImageView
+        android:layout_width="150dp"
+        android:src="@drawable/crosswords"
+        android:layout_marginTop="30dp"
+        android:id="@+id/crosswords"
+        android:layout_height="150dp" />
+
+
+</LinearLayout>

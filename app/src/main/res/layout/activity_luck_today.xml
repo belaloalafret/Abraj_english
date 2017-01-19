@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:gravity="center"
+    android:background="@drawable/background2"
+    tools:context="com.inet.Abraj.luck_today">
+
+    <pl.droidsonroids.gif.GifImageView
+        android:layout_width="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_height="wrap_content"
+        android:src="@drawable/image_animated"
+        android:id="@+id/gif_image"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="%"
+        android:textColor="#4caf50"
+        android:layout_below="@id/gif_image"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="100sp"
+        android:layout_centerInParent="true"
+        android:layout_height="wrap_content"
+        android:id="@+id/luck_title" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="23"
+        android:textSize="50sp"
+        android:layout_below="@id/luck_title"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_centerInParent="true"
+        android:id="@+id/luck_num" android:layout_height="wrap_content" />
+
+
+
+</RelativeLayout>

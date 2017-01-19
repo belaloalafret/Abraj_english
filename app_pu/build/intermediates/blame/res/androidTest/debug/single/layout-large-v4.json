@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\Apps\\Abraj\\app_pu\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-large-v4\\play.xml",
+        "source": "D:\\Apps\\Abraj\\app_pu\\build\\intermediates\\bundles\\debug\\res\\layout-large-v4\\play.xml"
+    },
+    {
+        "merged": "D:\\Apps\\Abraj\\app_pu\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-large-v4\\download_dialog.xml",
+        "source": "D:\\Apps\\Abraj\\app_pu\\build\\intermediates\\bundles\\debug\\res\\layout-large-v4\\download_dialog.xml"
+    },
+    {
+        "merged": "E:\\APPS\\Abraj_english\\app_pu\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-large-v4\\clue_detail_item.xml",
+        "source": "E:\\APPS\\Abraj_english\\app_pu\\build\\intermediates\\bundles\\debug\\res\\layout-large-v4\\clue_detail_item.xml"
+    },
+    {
+        "merged": "D:\\Apps\\Abraj\\app_pu\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-large-v4\\clue_detail_item.xml",
+        "source": "D:\\Apps\\Abraj\\app_pu\\build\\intermediates\\bundles\\debug\\res\\layout-large-v4\\clue_detail_item.xml"
+    },
+    {
+        "merged": "E:\\Abraj\\app_pu\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-large-v4\\clue_detail_item.xml",
+        "source": "E:\\Abraj\\app_pu\\build\\intermediates\\bundles\\debug\\res\\layout-large-v4\\clue_detail_item.xml"
+    },
+    {
+        "merged": "E:\\Abraj\\app_pu\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-large-v4\\download_dialog.xml",
+        "source": "E:\\Abraj\\app_pu\\build\\intermediates\\bundles\\debug\\res\\layout-large-v4\\download_dialog.xml"
+    },
+    {
+        "merged": "E:\\APPS\\Abraj_english\\app_pu\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-large-v4\\download_dialog.xml",
+        "source": "E:\\APPS\\Abraj_english\\app_pu\\build\\intermediates\\bundles\\debug\\res\\layout-large-v4\\download_dialog.xml"
+    },
+    {
+        "merged": "E:\\APPS\\Abraj_english\\app_pu\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-large-v4\\play.xml",
+        "source": "E:\\APPS\\Abraj_english\\app_pu\\build\\intermediates\\bundles\\debug\\res\\layout-large-v4\\play.xml"
+    },
+    {
+        "merged": "E:\\Abraj\\app_pu\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-large-v4\\play.xml",
+        "source": "E:\\Abraj\\app_pu\\build\\intermediates\\bundles\\debug\\res\\layout-large-v4\\play.xml"
+    }
+]

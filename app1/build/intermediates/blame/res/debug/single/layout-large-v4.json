@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Apps\\Abraj\\app1\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\play.xml",
+        "source": "D:\\Apps\\Abraj\\app1\\src\\main\\res\\layout-large\\play.xml"
+    },
+    {
+        "merged": "D:\\Apps\\Abraj\\app1\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\clue_detail_item.xml",
+        "source": "D:\\Apps\\Abraj\\app1\\src\\main\\res\\layout-large\\clue_detail_item.xml"
+    },
+    {
+        "merged": "D:\\Apps\\Abraj\\app1\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\download_dialog.xml",
+        "source": "D:\\Apps\\Abraj\\app1\\src\\main\\res\\layout-large\\download_dialog.xml"
+    }
+]

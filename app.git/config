@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+	hideDotFiles = dotGitOnly
+[remote "origin"]
+	url = git@192.168.80.77:DELL/android-studio-git.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
